@@ -1,0 +1,1 @@
+# GitConflictFall2026
