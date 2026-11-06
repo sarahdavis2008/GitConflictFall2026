@@ -7,6 +7,10 @@ int add(int a, int b);
 
 int main()
 {
+    cout << "Greetings!\n";
+    cout << "Hello World!\n";
+    cout << add(5, 7) << endl;
+    say("Hi");
     return 0;
 }
 
